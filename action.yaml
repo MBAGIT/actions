@@ -32,7 +32,7 @@ inputs:
   product-file:  
     description: 'File name of product yaml to publish'
     required: true
-    default: 'product.yaml'
+    default: 'product.yml'
   validate_only:
     description: "Only validate API content"
     required: true
